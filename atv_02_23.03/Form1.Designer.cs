@@ -120,7 +120,6 @@
             this.lblEquacao.Name = "lblEquacao";
             this.lblEquacao.Size = new System.Drawing.Size(0, 20);
             this.lblEquacao.TabIndex = 6;
-            this.lblEquacao.Click += new System.EventHandler(this.lblEquacao_Click);
             // 
             // lblB
             // 
@@ -166,7 +165,6 @@
             this.label3.Size = new System.Drawing.Size(85, 21);
             this.label3.TabIndex = 10;
             this.label3.Text = "Valor de A";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -178,7 +176,6 @@
             this.label4.Size = new System.Drawing.Size(84, 21);
             this.label4.TabIndex = 11;
             this.label4.Text = "Valor de B";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label5
             // 
